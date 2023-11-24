@@ -10,10 +10,10 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 import org.springframework.web.bind.annotation.RequestParam;
 
-import com.project.quizapp.Question;
-import com.project.quizapp.QuestionWrapper;
-import com.project.quizapp.Quiz;
-import com.project.quizapp.Response;
+import com.project.quizapp.model.Question;
+import com.project.quizapp.model.QuestionWrapper;
+import com.project.quizapp.model.Quiz;
+import com.project.quizapp.model.Response;
 import com.project.quizapp.dao.QuestionDao;
 import com.project.quizapp.dao.QuizDao;
 

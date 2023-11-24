@@ -13,9 +13,9 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.project.quizapp.QuestionWrapper;
-import com.project.quizapp.Quiz;
-import com.project.quizapp.Response;
+import com.project.quizapp.model.QuestionWrapper;
+import com.project.quizapp.model.Quiz;
+import com.project.quizapp.model.Response;
 import com.project.quizapp.service.QuizService;
 
 @RestController

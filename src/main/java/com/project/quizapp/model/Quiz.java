@@ -1,4 +1,4 @@
-package com.project.quizapp;
+package com.project.quizapp.model;
 
 import java.util.List;
 

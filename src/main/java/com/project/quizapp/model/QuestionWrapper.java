@@ -1,4 +1,4 @@
-package com.project.quizapp;
+package com.project.quizapp.model;
 
 //pushed to git
 public class QuestionWrapper {
